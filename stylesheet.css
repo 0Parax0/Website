@@ -1,0 +1,28 @@
+/* myStyle.css */
+body {
+ background-color: deepskyblue;
+ color: #FFFFFF;
+}
+h1 {
+ color: white;
+ background-color: darkblue;
+ text-align: center;
+ font: italic 200% Arial;
+}
+p {
+ background-color: blue;
+ color: white;
+ text-align: right;
+ border: 3px groove deepskyblue;
+ font-style: italic 200% Arial;
+}
+ul {
+  background-color: blue;
+  font-style: italic 200% Arial;
+  color: white;
+  text-align: left;
+}
+a {
+  color: white;
+  font-style: italic 200% Arial;
+}
