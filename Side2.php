@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<link rel="stylesheet" href="stylesheet.css">
+  <head>
+    <meta charset="utf-8">
+    <title>Side2</title>
+  </head>
+  <body>
+    <h2>Dette er side 2</h2>
+    <?php include "Nav.php"?>
+  </body>
+</html>

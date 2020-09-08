@@ -7,5 +7,6 @@
   </head>
   <body>
     <h2>Dette er side 3</h2>
+    <?php include "Nav.php"?>
   </body>
 </html>
